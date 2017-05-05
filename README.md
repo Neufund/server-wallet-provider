@@ -1,4 +1,6 @@
 # server-wallet-provider
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Neufund/server-wallet-provider.svg)](https://greenkeeper.io/)
 Ethereum wallet provider that user pustom private key server for signing
 
 ## Example usage
